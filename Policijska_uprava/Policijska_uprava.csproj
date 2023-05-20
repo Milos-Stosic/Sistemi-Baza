@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1EDD007-BFBC-470A-8178-A97A6B74E9A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Policijska_uprava</RootNamespace>
+    <AssemblyName>Policijska_uprava</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=3.1.0.0, Culture=neutral, PublicKeyToken=8aa435e3cb308880, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.3.1.0\lib\net461\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.3.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.3.3\lib\net461\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.21.6.1\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.2.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datalayer.cs" />
+    <Compile Include="DTO.cs" />
+    <Compile Include="DTOManager.cs" />
+    <Compile Include="Entiteti\Alarmni_sistem.cs" />
+    <Compile Include="Entiteti\NacelnikZamenik.cs" />
+    <Compile Include="Entiteti\Objekat_Broj_Telefona.cs" />
+    <Compile Include="Entiteti\SefZamenikPolicijskaStanica.cs" />
+    <Compile Include="Entiteti\Skolski_Broj_Telefona.cs" />
+    <Compile Include="Entiteti\Objekat.cs" />
+    <Compile Include="Entiteti\Patrola.cs" />
+    <Compile Include="Entiteti\Policajac.cs" />
+    <Compile Include="Entiteti\Policijska_intervencija.cs" />
+    <Compile Include="Entiteti\Policijska_stanica.cs" />
+    <Compile Include="Forme\AlarmniSistemF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\AlarmniSistemF.Designer.cs">
+      <DependentUpon>AlarmniSistemF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajAlarmniSistem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajAlarmniSistem.Designer.cs">
+      <DependentUpon>DodajAlarmniSistem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajObjekatF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajObjekatF.Designer.cs">
+      <DependentUpon>DodajObjekatF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajPozornika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajPozornika.Designer.cs">
+      <DependentUpon>DodajPozornika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajSkolskog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajSkolskog.Designer.cs">
+      <DependentUpon>DodajSkolskog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajStanicuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajStanicuForm.Designer.cs">
+      <DependentUpon>DodajStanicuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajVanrednog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajVanrednog.Designer.cs">
+      <DependentUpon>DodajVanrednog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Intervencije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Intervencije.Designer.cs">
+      <DependentUpon>Intervencije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\IzmeniObjekatF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\IzmeniObjekatF.Designer.cs">
+      <DependentUpon>IzmeniObjekatF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\IzmeniPolicajcaF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\IzmeniPolicajcaF.Designer.cs">
+      <DependentUpon>IzmeniPolicajcaF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajPolicajca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajPolicajca.Designer.cs">
+      <DependentUpon>DodajPolicajca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\IzmeniAlarmniSistem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\IzmeniAlarmniSistem.Designer.cs">
+      <DependentUpon>IzmeniAlarmniSistem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\IzmeniStanicuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\IzmeniStanicuForm.Designer.cs">
+      <DependentUpon>IzmeniStanicuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ObjekatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ObjekatForm.Designer.cs">
+      <DependentUpon>ObjekatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Policajci za vanredne situacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Policajci za vanredne situacije.Designer.cs">
+      <DependentUpon>Policajci za vanredne situacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PolicajciForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PolicajciForm.Designer.cs">
+      <DependentUpon>PolicajciForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PolicijskeStaniceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PolicijskeStaniceForm.Designer.cs">
+      <DependentUpon>PolicijskeStaniceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Pozornici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Pozornici.Designer.cs">
+      <DependentUpon>Pozornici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PrikaziDruge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PrikaziDruge.Designer.cs">
+      <DependentUpon>PrikaziDruge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entiteti\Sluzbeno_vozilo.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Skolski policajci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Skolski policajci.Designer.cs">
+      <DependentUpon>Skolski policajci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\AlarmniSistemMapiranja.cs" />
+    <Compile Include="Mapiranja\NacelnikZamenikMapiranja.cs" />
+    <Compile Include="Mapiranja\ObjekatBrojTelefonaMapiranja.cs" />
+    <Compile Include="Mapiranja\SefZamenikPolicijskaStanicaMapiranja.cs" />
+    <Compile Include="Mapiranja\SkolskiBrojTelefonaMapiranja.cs" />
+    <Compile Include="Mapiranja\ObjekatMapiranja.cs" />
+    <Compile Include="Mapiranja\PatrolaMapiranja.cs" />
+    <Compile Include="Mapiranja\PolicajacMapiranja.cs" />
+    <Compile Include="Mapiranja\PolicijskaIntervencijaMapiranja.cs" />
+    <Compile Include="Mapiranja\PolicijskaStanicaMapiranja.cs" />
+    <Compile Include="Mapiranja\SluzbenoVoziloMapiranja.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\AlarmniSistemF.resx">
+      <DependentUpon>AlarmniSistemF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajAlarmniSistem.resx">
+      <DependentUpon>DodajAlarmniSistem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajObjekatF.resx">
+      <DependentUpon>DodajObjekatF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajPozornika.resx">
+      <DependentUpon>DodajPozornika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajSkolskog.resx">
+      <DependentUpon>DodajSkolskog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajStanicuForm.resx">
+      <DependentUpon>DodajStanicuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajVanrednog.resx">
+      <DependentUpon>DodajVanrednog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Intervencije.resx">
+      <DependentUpon>Intervencije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\IzmeniObjekatF.resx">
+      <DependentUpon>IzmeniObjekatF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\IzmeniPolicajcaF.resx">
+      <DependentUpon>IzmeniPolicajcaF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajPolicajca.resx">
+      <DependentUpon>DodajPolicajca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\IzmeniAlarmniSistem.resx">
+      <DependentUpon>IzmeniAlarmniSistem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\IzmeniStanicuForm.resx">
+      <DependentUpon>IzmeniStanicuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ObjekatForm.resx">
+      <DependentUpon>ObjekatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Policajci za vanredne situacije.resx">
+      <DependentUpon>Policajci za vanredne situacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PolicajciForm.resx">
+      <DependentUpon>PolicajciForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PolicijskeStaniceForm.resx">
+      <DependentUpon>PolicijskeStaniceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Pozornici.resx">
+      <DependentUpon>Pozornici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PrikaziDruge.resx">
+      <DependentUpon>PrikaziDruge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Skolski policajci.resx">
+      <DependentUpon>Skolski policajci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

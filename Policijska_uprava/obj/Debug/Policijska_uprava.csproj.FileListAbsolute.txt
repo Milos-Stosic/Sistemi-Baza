@@ -1,0 +1,180 @@
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.exe.config
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.exe
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Antlr3.Runtime.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Iesi.Collections.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\NHibernate.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Buffers.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Memory.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Numerics.Vectors.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Encodings.Web.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Json.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.ValueTuple.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Antlr3.Runtime.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Iesi.Collections.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\NHibernate.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Buffers.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Memory.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Numerics.Vectors.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Encodings.Web.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Json.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\bin\Debug\System.ValueTuple.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.AssemblyReference.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.SuggestedBindingRedirects.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Form1.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.AlarmniSistemF.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajAlarmniSistem.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniPolicajcaF.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajPolicajca.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniAlarmniSistem.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PolicajciForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.SkolaForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.SpecificanPolicajacF.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Properties.Resources.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.GenerateResource.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.CoreCompileInputs.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.CopyComplete
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.exe
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Veljin Projekat\SBP 3. godina\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.AssemblyReference.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.SuggestedBindingRedirects.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Form1.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.AlarmniSistemF.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajAlarmniSistem.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniPolicajcaF.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajPolicajca.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniAlarmniSistem.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PolicajciForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Properties.Resources.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.GenerateResource.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.CoreCompileInputs.cache
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.exe
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.exe.config
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.exe
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Antlr3.Runtime.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Iesi.Collections.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\NHibernate.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Buffers.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Memory.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Numerics.Vectors.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Encodings.Web.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Json.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.ValueTuple.dll
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Antlr3.Runtime.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.pdb
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Iesi.Collections.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\NHibernate.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Buffers.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Memory.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Numerics.Vectors.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Encodings.Web.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Json.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\bin\Debug\System.ValueTuple.xml
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.CopyComplete
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.exe.config
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.exe
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Policijska_uprava.pdb
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Iesi.Collections.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\NHibernate.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Buffers.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Memory.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Json.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.ValueTuple.dll
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.pdb
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\FluentNHibernate.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Iesi.Collections.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\NHibernate.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Buffers.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Memory.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Text.Json.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\bin\Debug\System.ValueTuple.xml
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.AssemblyReference.cache
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Form1.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.AlarmniSistemF.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajAlarmniSistem.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniPolicajcaF.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajPolicajca.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniAlarmniSistem.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PolicajciForm.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Properties.Resources.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.GenerateResource.cache
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.CoreCompileInputs.cache
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.csproj.CopyComplete
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.exe
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.pdb
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajPozornika.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PrikaziDruge.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Pozornici.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Policajci_za_vanredne_situacije.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Skolski_policajci.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajSkolskog.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajVanrednog.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Intervencije.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajPozornika.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajSkolskog.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajVanrednog.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Intervencije.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Policajci_za_vanredne_situacije.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Pozornici.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PrikaziDruge.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.Skolski_policajci.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PolicijskeStaniceForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajStanicuForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniStanicuForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.ObjekatForm.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajObjekatF.resources
+D:\Fax\III Godina\6. semestar\Sistemi Baza Podataka\Policijska uprava\Drugi deo\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniObjekatF.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajObjekatF.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.DodajStanicuForm.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniObjekatF.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.IzmeniStanicuForm.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.ObjekatForm.resources
+C:\Users\Stole\source\repos\Policijska_uprava\Policijska_uprava\obj\Debug\Policijska_uprava.Forme.PolicijskeStaniceForm.resources
